@@ -1,0 +1,6 @@
+# Ignorar o ambiente virtual do Python (onde estão esses milhares de arquivos .py e .pyc)
+venv/
+
+# Ignorar arquivos de cache que o Python cria sozinho
+**/__pycache__/
+*.pyc
